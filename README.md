@@ -8,6 +8,8 @@ A Full-stack developer with strong knowledge of software development, able to wo
 
 ## Projects
 
+[![](https://skillicons.dev/icons?i=js,react,nodejs,html,css,py,express,nextjs,tailwind,bootstrap,materialui,java,cs,ts,dotnet,mysql,sqlite,graphql,vim)]()
+
 1. **(JavaScript, Node.js, React)** Chat Bot. [Repo](https://github.com/iczcpkqo/chat-windows-calendar)
 3. **(JavaScript)** Questionnaire Creator and Management System. [Repo](https://github.com/iczcpkqo/surveys-maker)
 
