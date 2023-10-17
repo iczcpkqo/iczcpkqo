@@ -25,3 +25,10 @@ A Full-stack developer with strong knowledge of software development, able to wo
 
 10. **(Node.js)** PDF Process [Repo](https://github.com/iczcpkqo/2-A-Simple-API-Server)
 11. **(JavaScript, HTML, CSS)** Commercial Hotel Information Display Page. [Repo](https://github.com/iczcpkqo/static-company)
+
+## Get in Touch
+
+[My LinkedIn: https://t.ly/yaF0p](https://t.ly/yaF0p)
+
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://t.ly/yaF0p)
+
