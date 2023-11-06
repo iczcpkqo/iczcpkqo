@@ -10,23 +10,23 @@ A Full-stack developer with strong knowledge of software development, able to wo
 
 [![](https://skillicons.dev/icons?i=js,react,nodejs,html,css,py,express,nextjs,tailwind,bootstrap,materialui,java,cs,ts,dotnet,mysql,sqlite,graphql,vim)]()
 
-1. **(JavaScript, Node.js, React)** Chat Bot. [Repo](https://github.com/iczcpkqo/chat-windows-calendar)
-3. **(JavaScript)** Questionnaire Creator and Management System. [Repo](https://github.com/iczcpkqo/surveys-maker)
+1. **(JavaScript, Node.js, React)** Chat Bot. [Repo](https://t.ly/Rf6ty)
+2. **(JavaScript)** Questionnaire Creator and Management System. [Repo](https://t.ly/0uo8Y)
 
 
-2. **(React, JavaScript, Node.js, Java, UX)** React , UX and knowledge graph related research, Dissertation. [Repo](https://github.com/iczcpkqo/Dissertation)
-4. **(React, Javascript, Node.js)** Distributed Information Management System. [Repo](https://github.com/iczcpkqo/distributed-front-end)
+3. **(React, JavaScript, Node.js, Java, UX)** React , UX and knowledge graph related research, Dissertation. [Repo](https://t.ly/XnRNT)
+4. **(React, Javascript, Node.js)** Distributed Information Management System. [Repo](https://t.ly/E29kT)
 
-5. **(Python, AI)** NLP Text Analysis Team Project. [Repo](https://github.com/iczcpkqo/CS7IS4_Text-Analytics_Project)
-6. **(Python, AI, Reinforcement Learning)** Intelligent robots in games. [Repo](https://github.com/iczcpkqo/fyp2021-chemo)
+5. **(Python, AI)** NLP Text Analysis Team Project. [Repo](https://t.ly/IDDZp)
+6. **(Python, AI, Reinforcement Learning)** Intelligent robots in games. [Repo](https://t.ly/F6d7Z)
 
-7. **(AI, Python)** AI Algorithm Team Project. [Repo](https://github.com/iczcpkqo/Pikachu_AI_Project)
+7. **(AI, Python)** AI Algorithm Team Project. [Repo](https://t.ly/dGQAt)
 
-8. **(Java)** Journey Share Application. [Repo](https://github.com/iczcpkqo/Journey-Share_Android)
-9. **(Java)** File search software. [Repo](https://github.com/iczcpkqo/info_search_lucene)
+8. **(Java)** Journey Share Application. [Repo](https://t.ly/rzcyO)
+9. **(Java)** File search software. [Repo](https://t.ly/6cFa1)
 
-10. **(Node.js)** PDF Process [Repo](https://github.com/iczcpkqo/2-A-Simple-API-Server)
-11. **(JavaScript, HTML, CSS)** Commercial Hotel Information Display Page. [Repo](https://github.com/iczcpkqo/static-company)
+10. **(Node.js)** PDF Process [Repo](https://t.ly/BfS_3)
+11. **(JavaScript, HTML, CSS)** Commercial Hotel Information Display Page. [Repo](https://t.ly/MlEp4)
 
 ## Get in Touch
 
